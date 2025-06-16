@@ -56,6 +56,11 @@ npm run dev
    - Wind speed in km/h
    - Weather condition icon
 
+  ## Live Demo
+
+[Click here to view the live app](https://weather-app-jzti.vercel.app/)
+
+
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
